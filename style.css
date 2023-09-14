@@ -73,6 +73,7 @@ body {
     height: 100vh; /* This assumes you want to center it within the viewport's height */
 }
 .pfp {
+    object-fit: cover;
     border-radius: 50%;
     width: 128px;
     display: block;
